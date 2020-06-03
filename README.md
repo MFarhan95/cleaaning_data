@@ -1,5 +1,5 @@
 # cleaaning_data
-getting and cleaning data
+getting and cleaning data(solved in accordancce to the given task)
 
 About this R script
 File with R code "run_analysis.R" perform 5 following steps 
